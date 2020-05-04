@@ -1,0 +1,92 @@
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\ApplicationInsights.config
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\csc.exe
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\vbc.exe
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\VBCSCompiler.exe
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\lab1mvc.dll.config
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\lab1mvc.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\lab1mvc.pdb
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.Web.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.ApplicationInsights.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Helpers.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Mvc.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Razor.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.Deployment.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.Razor.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.Web.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.ApplicationInsights.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Razor.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.Deployment.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Webpages.Razor.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Helpers.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\bin\System.Web.Mvc.xml
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\obj\Debug\lab1mvc.csprojResolveAssemblyReference.cache
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\obj\Debug\lab1mvc.dll
+c:\users\sara agamy\documents\visual studio 2015\Projects\lab1mvc\lab1mvc\obj\Debug\lab1mvc.pdb
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\ApplicationInsights.config
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\csc.exe
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\System.Collections.Immutable.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\System.Reflection.Metadata.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\vbc.exe
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\VBCSCompiler.exe
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\roslyn\VBCSCompiler.exe.config
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\lab1mvc.dll.config
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\lab1mvc.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\lab1mvc.pdb
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.Agent.Intercept.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.DependencyCollector.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.Web.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.WindowsServer.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.ApplicationInsights.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.Web.Infrastructure.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Helpers.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Mvc.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Razor.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.Deployment.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.Razor.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.DependencyCollector.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.Web.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.AI.WindowsServer.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.ApplicationInsights.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Razor.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.Deployment.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Webpages.Razor.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Helpers.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\bin\System.Web.Mvc.xml
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\obj\Debug\lab1mvc.csprojResolveAssemblyReference.cache
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\obj\Debug\lab1mvc.dll
+H:\ITI\MVC\Labs\lab1mvc\lab1mvc\obj\Debug\lab1mvc.pdb
