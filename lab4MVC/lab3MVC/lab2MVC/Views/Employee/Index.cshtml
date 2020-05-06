@@ -1,0 +1,116 @@
+﻿@model EmployeeViewModel
+@{
+    ViewBag.Title = "Employee";
+}
+
+@section Styles{ 
+<style>
+    .btn{
+        margin-bottom:5px;
+    }
+</style>
+}
+  
+        <h2>Employees</h2>
+        <br/>
+        @Html.ActionLink("+ Add Employee", "Add","Employee", new { @class="btn btn-primary"})
+         @if (TempData["Message"] != null)
+         {
+             <div class="alert alert-info">
+                 @TempData["Message"]
+             </div>
+         }
+
+        @if (Model != null && Model.Employees.Count > 0)
+        {
+            <table class="table table-hover table-striped">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Salary</th>
+                        <th>Address</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody">
+                    @foreach (Employee employee in Model.Employees)
+                    {
+                      @Html.Partial("_EmployeePartial",employee)
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-info">
+                No employees found
+            </div>
+     
+        }
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    AddAjax
+</button>
+@{
+    AjaxOptions option = new AjaxOptions
+    {
+        HttpMethod = "POST",
+        OnSuccess = "OnSuccess",
+        UpdateTargetId = "tbody",
+        InsertionMode = InsertionMode.InsertAfter
+    };
+
+}
+
+
+@using (Ajax.BeginForm("AddAjax","Employee",option)) 
+{
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    @Html.Partial("_EmployeeFormAdd", Model.Employee)
+
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" value="Add" class="btn btn-primary" />
+                    @Html.ActionLink("Back to list", "Index", "Employee", null, new { @class = "btn btn-dark" })
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@section Scripts {
+    <script>
+        function ConfirmDelete(id) {
+            let res = confirm("Are you sure you want to delete this employee?");
+            if (res) {
+                $.ajax({
+                    url: `/Employee/Delete/${id}`,
+                    type: "POST",
+                    success: function(response) {
+                        if (response) {
+                            let res = $(`#${id}`);
+                            res.remove();
+                        }
+                    },
+                    error: function(err) {
+                        console.log(err);
+                    }
+                })
+            }
+        }
+        function OnSuccess(employee) {
+            $("#form0")[0].reset();
+            $("#exampleModal").modal("hide");
+        }
+    </script>
+}
