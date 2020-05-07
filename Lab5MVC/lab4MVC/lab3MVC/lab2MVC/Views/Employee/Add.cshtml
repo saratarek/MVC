@@ -1,0 +1,33 @@
+﻿model Employee
+@{
+    ViewBag.Title = "Add Employee";
+
+}
+    
+        <h2>Add Employee</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <form method="post">
+                    <div class="form-group">
+                        <label for="Name">Name</label>
+                        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="Salary">Salary</label>
+                        @Html.TextBoxFor(m => m.Salary, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Salary, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Address">Address</label>
+                        Address:@Html.TextAreaFor(m => m.Address, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                    </div>
+                    <input type="submit" value="Submit" />
+                </form>
+            </div>
+        </div>
+    
+
