@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNet.Identity.EntityFramework;
+@model IdentityRole
+@{
+    ViewBag.Title = "AddRole";
+}
+
+<h2>AddRole</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name);
+        @Html.TextAreaFor(m => m.Name,new { @class ="form-control"})
+        @Html.ValidationMessageFor(m => m.Name, null,new { @class = "text-danger" })
+    </div>
+    <input type="submit" value="Add" class="btn btn-primary" /> 
+     @Html.ActionLink("Back to Home ","Index" ,null,new { @class = "btn btn-secondary" })
+}
